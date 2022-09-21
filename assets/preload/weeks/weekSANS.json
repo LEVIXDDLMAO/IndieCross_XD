@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["whoopee", "cuphead", [255, 120, 191]],
+		["sansational", "cuphead", [255, 120, 191]],
+		["final-stretch", "AngryCuphead", [255, 120, 191]],
+        ["burning-in-hell", "AngryCuphead", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Sans Week",
+	"weekBefore": "WeekCUP",
+	"weekName": "WeekSans",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
