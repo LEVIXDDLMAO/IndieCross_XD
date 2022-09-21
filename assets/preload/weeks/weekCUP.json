@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["snake-eyes", "cuphead", [255, 120, 191]],
+		["technicolor-tussle", "cuphead", [255, 120, 191]],
+		["knockout", "AngryCuphead", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Cuphead Week",
+	"weekBefore": "week6",
+	"weekName": "WeekCUP",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
