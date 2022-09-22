@@ -134,7 +134,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sans/BF-BS-shader",
+	"image": "characters/BF-BS-shader",
 	"position": [
 		0,
 		350
