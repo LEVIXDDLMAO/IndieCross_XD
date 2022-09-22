@@ -799,8 +799,10 @@ class PlayState extends MusicBeatState
 		startCharacterLua(boyfriend.curCharacter);
 		
 		var camPos:FlxPoint = new FlxPoint(gf.getGraphicMidpoint().x, gf.getGraphicMidpoint().y);
-		camPos.x += gf.cameraPosition[0];
-		camPos.y += gf.cameraPosition[1];
+		if(gf != null) {
+			camPos.x += gf.cameraPosition[0];
+			camPos.y += gf.cameraPosition[1];
+		}
 
 		if(dad.curCharacter.startsWith('gf')) {
 			dad.setPosition(GF_X, GF_Y);
