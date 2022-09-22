@@ -6276,7 +6276,7 @@
 		],
 		"player2": "Sans_Phase2_IC",
 		"song": "Final-Stretch",
-		"stage": "SansStage",
+		"stage": "Stage",
 		"validScore": true,
 		"needsVoices": true,
 		"bpm": 175,

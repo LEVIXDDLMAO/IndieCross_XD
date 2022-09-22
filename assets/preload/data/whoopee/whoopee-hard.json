@@ -4912,7 +4912,7 @@
 		],
 		"song": "Whoopee",
 		"validScore": true,
-		"stage": "SansStage",
+		"stage": "Stage",
 		"needsVoices": true,
 		"sections": 0,
 		"speed": 2.9,
