@@ -11,13 +11,16 @@ BF_Bendy_Run-Dark
 BF_Bendy_Run
 Cuphead
 Cuphead-Pissed
+Nightmare-Cuphead
 Sans_IC_WT
 Sans_IC
 Sans_Phase_IC
 Sans_Phase3_Tired
 Sans_Phase3
+Nightmare-Sans
 UT-Sans
 Bendy_DA
 Bendy_IC
 Bendy_Run-Dark
 Bendy_Run
+Nightmare-Bendy
