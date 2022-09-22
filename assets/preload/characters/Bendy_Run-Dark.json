@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-70,
+				-71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dowwn instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-48,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-76,
+				153
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Upp instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				33,
+				114
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Leftr instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bendy Run instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bendy_run_Remastered",
+	"position": [
+		-300,
+		120
+	],
+	"healthicon": "bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		2,
+		4,
+		10
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

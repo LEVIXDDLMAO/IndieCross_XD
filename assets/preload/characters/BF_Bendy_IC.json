@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				150
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Ouch instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				25
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "L-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				23
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "R-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				110
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "U-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-16
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "D-Miss instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoyFriend_BendyShade",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		200,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
