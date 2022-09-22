@@ -1,2 +1,3 @@
 weekCUP
 weekSANS
+weekINK
