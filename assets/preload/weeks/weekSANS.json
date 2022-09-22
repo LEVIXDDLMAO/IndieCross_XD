@@ -1,9 +1,9 @@
 {
 	"songs": [
-		["whoopee", "cuphead", [255, 120, 191]],
-		["sansational", "cuphead", [255, 120, 191]],
-		["final-stretch", "AngryCuphead", [255, 120, 191]],
-        ["burning-in-hell", "AngryCuphead", [255, 120, 191]]
+		["whoopee", "sans", [255, 120, 191]],
+		["sansational", "sans", [255, 120, 191]],
+		["final-stretch", "sans", [255, 120, 191]],
+        ["burning-in-hell", "sans_phase3", [255, 120, 191]]
 	],
 
 	"weekCharacters": [
