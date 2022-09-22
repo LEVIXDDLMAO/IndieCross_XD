@@ -1,0 +1,194 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "SansStage",
+		"player1": "BF_Sans_IC",
+		"player2": "Sans_Phase2_IC",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"9"
+					]
+				]
+			],
+			[
+				10971.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.085",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.4"
+					]
+				]
+			],
+			[
+				32914.2857142857,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.04",
+						""
+					]
+				]
+			],
+			[
+				37714.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.04",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.01"
+					]
+				]
+			],
+			[
+				48171.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.04",
+						""
+					]
+				]
+			],
+			[
+				48685.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.04",
+						""
+					]
+				]
+			],
+			[
+				49371.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.01"
+					]
+				]
+			],
+			[
+				65657.1428571429,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				65871.4285714286,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Sans_IC_WT"
+					],
+					[
+						"Change Character",
+						"BF",
+						"BF_Sans_WT"
+					]
+				]
+			],
+			[
+				77142.8571428571,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				98742.857142857,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				109457.142857143,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BF_Sans_IC"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Sans_Phase2_IC"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				175542.857142857,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Final-Stretch"
+	}
+}
