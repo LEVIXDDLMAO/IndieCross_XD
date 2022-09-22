@@ -1,4 +1,14 @@
 BF_IC_Cuphead
 BF_IC_Rain
-Cuphead-Pissed
+BF_Sans_BS
+BF_Sans_Chara
+BF_Sans_IC
+BF_Sans_WT
 Cuphead
+Cuphead-Pissed
+Sans_IC_WT
+Sans_IC
+Sans_Phase_IC
+Sans_Phase3_Tired
+Sans_Phase3
+UT-Sans
