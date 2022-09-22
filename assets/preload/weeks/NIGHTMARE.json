@@ -12,11 +12,11 @@
 	],
 	"weekBackground": "",
 
-	"storyName": "Sans Week",
-	"weekBefore": "WeekCUP",
-	"weekName": "week2",
+	"storyName": "nightmare Week",
+	"weekBefore": "WeekINK",
+	"weekName": "Week 4",
 	"startUnlocked": true,
 
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"hideFreeplay": false
 }
