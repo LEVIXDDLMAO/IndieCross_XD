@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["devils-gambit", "nightmare-cuphead", [255, 120, 191]],
+		["bad-time", "nightmare-sans", [255, 120, 191]],
+		["despair", "nightmare-bendy", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Sans Week",
+	"weekBefore": "WeekCUP",
+	"weekName": "week2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
