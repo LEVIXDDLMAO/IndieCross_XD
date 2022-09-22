@@ -5654,7 +5654,7 @@
 		"events": [],
 		"song": "Terrible-Sin",
 		"needsVoices": true,
-		"stage": "BendyStage",
+		"stage": "Stage",
 		"validScore": true,
 		"noteStyle": "normal",
 		"speed": 2.8,

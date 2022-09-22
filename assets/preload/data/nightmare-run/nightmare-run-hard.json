@@ -11577,7 +11577,7 @@
 		"song": "Nightmare-Run",
 		"needsVoices": true,
 		"validScore": true,
-		"stage": "BendyRun",
+		"stage": "Stage",
 		"bpm": 166.6,
 		"speed": 3,
 		"noteStyle": "normal"
