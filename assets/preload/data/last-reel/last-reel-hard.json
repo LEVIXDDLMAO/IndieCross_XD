@@ -6619,7 +6619,7 @@
 		"song": "Last-Reel",
 		"needsVoices": true,
 		"sections": 0,
-		"stage": "Stage",
+		"stage": "stage",
 		"validScore": true,
 		"bpm": 195,
 		"speed": 3

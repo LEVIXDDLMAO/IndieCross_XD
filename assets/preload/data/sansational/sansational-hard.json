@@ -5312,7 +5312,7 @@
 		"gfVersion": "gf",
 		"events": [],
 		"song": "Sansational",
-		"stage": "Stage",
+		"stage": "stage",
 		"sections": 45,
 		"validScore": true,
 		"needsVoices": true,

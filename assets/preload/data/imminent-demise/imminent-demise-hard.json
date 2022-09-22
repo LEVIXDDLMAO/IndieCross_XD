@@ -4106,7 +4106,7 @@
 		"song": "imminent-demise",
 		"validScore": true,
 		"needsVoices": true,
-		"stage": "Stage",
+		"stage": "stage",
 		"noteStyle": "normal",
 		"speed": 2.7,
 		"bpm": 200
