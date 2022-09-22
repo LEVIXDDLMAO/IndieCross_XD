@@ -1,9 +1,9 @@
 {
 	"songs": [
-		["whoopee", "sans", [255, 120, 191]],
-		["sansational", "sans", [255, 120, 191]],
-		["final-stretch", "sans", [255, 120, 191]],
-        ["burning-in-hell", "sans_phase3", [255, 120, 191]]
+		["imminent-demise", "bendy", [255, 120, 191]],
+		["terrible-sin", "bendy", [255, 120, 191]],
+		["last-reel", "bendy", [255, 120, 191]],
+        ["nightmare-run", "bendy", [255, 120, 191]]
 	],
 
 	"weekCharacters": [
@@ -15,7 +15,7 @@
 
 	"storyName": "Sans Week",
 	"weekBefore": "WeekCUP",
-	"weekName": "week2",
+	"weekName": "week3",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
