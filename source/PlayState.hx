@@ -364,6 +364,7 @@ class PlayState extends MusicBeatState
 					curStage = 'stage';
 			}
 		}
+		var camPos:FlxPoint = null;
 
 		var stageData:StageFile = StageData.getStageFile(curStage);
 		if(stageData == null) { //Stage couldn't be found, create a dummy stage for preventing a crash
@@ -798,7 +799,7 @@ class PlayState extends MusicBeatState
 		boyfriendGroup.add(boyfriend);
 		startCharacterLua(boyfriend.curCharacter);
 		
-		var camPos:FlxPoint = new FlxPoint(gf.getGraphicMidpoint().x, gf.getGraphicMidpoint().y);
+		camPos:FlxPoint = new FlxPoint(gf.getGraphicMidpoint().x, gf.getGraphicMidpoint().y);
 		if(gf != null) {
 			camPos.x += gf.cameraPosition[0];
 			camPos.y += gf.cameraPosition[1];
