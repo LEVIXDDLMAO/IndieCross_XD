@@ -37,17 +37,17 @@ class OptionsState extends MusicBeatState
 	function openSelectedSubstate(label:String) {
 		switch(label) {
 		  //case 'Note Colors':
-				openSubState(new options.NotesSubState());
+				//openSubState(new options.NotesSubState());
 			case 'Controls':
 				openSubState(new options.ControlsSubState());
 		  //case 'Graphics':
-				openSubState(new options.GraphicsSettingsSubState());
+				//openSubState(new options.GraphicsSettingsSubState());
 			case 'Visuals and UI':
 				openSubState(new options.VisualsUISubState());
 			case 'Gameplay':
 				openSubState(new options.GameplaySettingsSubState());
 	      //case 'Adjust Delay and Combo':
-				LoadingState.loadAndSwitchState(new options.NoteOffsetState());
+				//LoadingState.loadAndSwitchState(new options.NoteOffsetState());
 		}
 	}
 
